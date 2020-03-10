@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on 大白的快乐</title>
-    <link>http://example.org/zh/tags/</link>
+    <link>https://polywork.github.io/zh/tags/</link>
     <description>Recent content in Tags on 大白的快乐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -15,7 +15,7 @@
     <webMaster>example@123.com (大白)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://polywork.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>index</title>
-        <link>http://example.org/zh/tags/index/</link>
+        <link>https://polywork.github.io/zh/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>example@123.com (大白)</author>
         
-        <guid>http://example.org/zh/tags/index/</guid>
+        <guid>https://polywork.github.io/zh/tags/index/</guid>
         <description></description>
         
         <dc:creator>大白</dc:creator>

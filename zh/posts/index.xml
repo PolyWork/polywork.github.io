@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on 大白的快乐</title>
-    <link>http://example.org/zh/posts/</link>
+    <link>https://polywork.github.io/zh/posts/</link>
     <description>Recent content in Posts on 大白的快乐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -15,7 +15,7 @@
     <webMaster>example@123.com (大白)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://polywork.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     

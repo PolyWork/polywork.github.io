@@ -14,7 +14,7 @@
     <managingEditor>example@123.com (大白)</managingEditor>
     <webMaster>example@123.com (大白)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 10:20:16 +0900</lastBuildDate>
     
         <atom:link href="https://polywork.github.io/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>Photo</title>
+        <title>照片</title>
         <link>https://polywork.github.io/zh/gallery/photo/</link>
-        <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
+        <pubDate>Sat, 12 Oct 2019 10:20:16 +0900</pubDate>
         <author>example@123.com (大白)</author>
-        <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
+        <atom:modified>Sat, 12 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>https://polywork.github.io/zh/gallery/photo/</guid>
         <description></description>
         
         <dc:creator>大白</dc:creator>
-        
+        <media:content url="https://polywork.github.ioimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -41,7 +41,7 @@
       </item>
       
       <item>
-        <title>Cartoon</title>
+        <title>图片</title>
         <link>https://polywork.github.io/zh/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
         <author>example@123.com (大白)</author>
@@ -50,7 +50,7 @@
         <description></description>
         
         <dc:creator>大白</dc:creator>
-        
+        <media:content url="https://polywork.github.ioimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

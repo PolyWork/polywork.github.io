@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Posts on 大白的快乐</title>
+    <title>日记 on 大白的快乐</title>
     <link>https://polywork.github.io/zh/posts/</link>
-    <description>Recent content in Posts on 大白的快乐</description>
+    <description>Recent content in 日记 on 大白的快乐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>example@123.com (大白)</managingEditor>
